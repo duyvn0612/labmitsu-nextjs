@@ -1,0 +1,111 @@
+{
+  "Thành phố Hà Nội": {
+    "Quận Đống Đa": {
+      "Phường Láng Thượng": {
+        "Cameras": [
+          {
+            "nameCam": "Nút giao Cầu Giấy",
+            "classCam": "Giao thông",
+            "provincesVms": "Thành phố Hà Nội",
+            "districtVms": "Quận Đống Đa",
+            "wardVms": "Phường Láng Thượng",
+            "rtspCam": "http://192.168.1.121:8085/hls/index4.m3u8",
+            "typeCam": "camFixed",
+            "featureCam": ["Hoạt động"],
+            "routeCam": "Láng giao Cầu Giấy",
+            "locationCam": "21.03000740749291, 105.80173317770488",
+            "linkViewVideo": "http://192.168.1.121:8085/hls/index4.m3u8",
+            "id": "e979378b-5076-4de4-aae4-66c2f55883ef"
+          },
+          {
+            "nameCam": "NTS hướng Láng",
+            "classCam": "Giao thông",
+            "provincesVms": "Thành phố Hà Nội",
+            "districtVms": "Quận Đống Đa",
+            "wardVms": "Phường Láng Thượng",
+            "rtspCam": "http://192.168.1.121:8085/hls/index3.m3u8",
+            "typeCam": "camFixed",
+            "featureCam": ["Hoạt động"],
+            "routeCam": "Ngã Tư Sở",
+            "locationCam": "21.00312708414323, 105.81981149541517",
+            "linkViewVideo": "http://192.168.1.121:8085/hls/index3.m3u8",
+            "id": "ab4c0d04-3c4e-4053-ad0a-56194c6dda60"
+          }
+        ]
+      },
+      "Phường Ngã Tư Sở": {
+        "Cameras": [
+          {
+            "nameCam": "VĐ2 lối xuống",
+            "classCam": "Giao thông",
+            "provincesVms": "Thành phố Hà Nội",
+            "districtVms": "Quận Đống Đa",
+            "wardVms": "Phường Ngã Tư Sở",
+            "rtspCam": "rtsplink",
+            "typeCam": "camFixed",
+            "featureCam": ["Hoạt động"],
+            "routeCam": "Vành đai 2 NTS",
+            "locationCam": "21.00267236077039, 105.82235666660203",
+            "linkViewVideo": "http://192.168.1.121:8085/hls/index1.m3u8",
+            "id": "01be6dfe-69bb-4221-bad5-85440e2c3231"
+          },
+          {
+            "nameCam": "NTS hướng Trường Chinh",
+            "classCam": "Giao thông",
+            "provincesVms": "Thành phố Hà Nội",
+            "districtVms": "Quận Đống Đa",
+            "wardVms": "Phường Ngã Tư Sở",
+            "rtspCam": "http://192.168.1.30:8080/hls/stream_name.m3u8",
+            "typeCam": "camFixed",
+            "featureCam": ["Hoạt động", "Ghi hình"],
+            "routeCam": "Ngã Tư Sở",
+            "locationCam": "21.003119261714243, 105.82038863014758",
+            "linkViewVideo": "http://192.168.1.121:8085/hls/index2.m3u8",
+            "id": "7bde29ec-7eb7-45a3-9a44-ce856e4ce1cc"
+          }
+        ]
+      }
+    },
+    "Quận Cầu Giấy": {
+      "Phường Mai Dịch": {
+        "Cameras": []
+      }
+    }
+  },
+  "Tỉnh Hà Giang": {
+    "Huyện Đồng Văn": {
+      "Xã Thài Phìn Tủng": {
+        "Cameras": [
+          {
+            "nameCam": "cm1",
+            "classCam": "Giao thông",
+            "provinces": "Tỉnh Hà Giang",
+            "district": "Huyện Đồng Văn",
+            "ward": "Xã Thài Phìn Tủng",
+            "rtspCam": "ww",
+            "typeCam": "camFixed",
+            "featureCam": ["Ghi hình", "Hoạt động"],
+            "urlLanCam": "222",
+            "routeCam": "ewewe",
+            "locationCam": "21.03395737040227, 105.77662467956543",
+            "id": "129ef803-fdde-417f-8c76-e604618c28b8"
+          },
+          {
+            "nameCam": "cm1",
+            "classCam": "Giao thông",
+            "provinces": "Tỉnh Hà Giang",
+            "district": "Huyện Đồng Văn",
+            "ward": "Xã Thài Phìn Tủng",
+            "rtspCam": "ww",
+            "typeCam": "camDome",
+            "featureCam": ["Ghi hình", "Hoạt động"],
+            "urlLanCam": "222",
+            "routeCam": "ewewe",
+            "locationCam": "21.03395737040227, 105.77662467956543",
+            "id": "e1f88ecc-be94-481b-a7b2-d3078f1451d4"
+          }
+        ]
+      }
+    }
+  }
+}

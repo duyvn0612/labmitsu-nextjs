@@ -1,0 +1,665 @@
+{
+    "TrafficAddress": {
+        "Thành phố Hà Nội": {
+            "Quận Đống Đa": {
+                "Phường Láng Thượng": {
+                    "Cameras": [
+                        {
+                            "nameCam": "Nút giao Cầu Giấy",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Đống Đa",
+                            "ward": "Phường Láng Thượng",
+                            "rtspCam": "http://192.168.1.121:8085/hls/index4.m3u8",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động"
+                            ],
+                            "routeCam": "Láng giao Cầu Giấy",
+                            "locationCam": {
+                                "lat": 21.03000740749291,
+                                "lng": 105.80173317770488
+                            },
+                            "angleCam": 30.6013431624525,
+                            "linkViewVideo": "http://192.168.1.121:8085/hls/index4.m3u8",
+                            "id": "e979378b-5076-4de4-aae4-66c2f55883ef"
+                        },
+                        {
+                            "nameCam": "NTS hướng Láng",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Đống Đa",
+                            "ward": "Phường Láng Thượng",
+                            "rtspCam": "http://192.168.1.121:8085/hls/index3.m3u8",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động"
+                            ],
+                            "routeCam": "Ngã Tư Sở",
+                            "locationCam": {
+                                "lat": 21.00312708414323,
+                                "lng": 105.81981149541517
+                            },
+                            "angleCam": -163.90664213397216,
+                            "linkViewVideo": "http://192.168.1.121:8085/hls/index3.m3u8",
+                            "id": "ab4c0d04-3c4e-4053-ad0a-56194c6dda60"
+                        }
+                    ]
+                },
+                "Phường Ngã Tư Sở": {
+                    "Cameras": [
+                        {
+                            "nameCam": "VĐ2 lối xuống",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Đống Đa",
+                            "ward": "Phường Ngã Tư Sở",
+                            "rtspCam": "rtsplink",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động"
+                            ],
+                            "routeCam": "Vành đai 2 NTS",
+                            "locationCam": {
+                                "lat": 21.00267236077039,
+                                "lng": 105.82235666660203
+                            },
+                            "angleCam": 15.081331773899763,
+                            "linkViewVideo": "http://192.168.1.121:8085/hls/index2.m3u8",
+                            "id": "01be6dfe-69bb-4221-bad5-85440e2c3231"
+                        },
+                        {
+                            "nameCam": "NTS hướng Trường Chinh",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Đống Đa",
+                            "ward": "Phường Ngã Tư Sở",
+                            "rtspCam": "http://192.168.1.121:8085/hls/index1.m3u8",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "routeCam": "Ngã Tư Sở",
+                            "locationCam": {
+                                "lat": 21.003119261714243,
+                                "lng": 105.82038863014758
+                            },
+                            "angleCam": -173.1816041631407,
+                            "linkViewVideo": "http://192.168.1.121:8085/hls/index1.m3u8",
+                            "id": "7bde29ec-7eb7-45a3-9a44-ce856e4ce1cc"
+                        }
+                    ]
+                }
+            },
+            "Quận Cầu Giấy": {
+                "Phường Mai Dịch": {
+                    "Cameras": [
+                        {
+                            "nameCam": "Đại học Thương Mại",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Mai Dịch",
+                            "rtspCam": "qqq",
+                            "typeCam": "camDome",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "Hồ Tùng Mậu",
+                            "locationCam": {
+                                "lat": 21.0371626704629,
+                                "lng": 105.77520847320557
+                            },
+                            "id": "5fc2f2af-26b9-40fc-8d3d-c69383e38df7",
+                            "angleCam": -85.72028446916705
+                        },
+                        {
+                            "nameCam": "Ga Lê Đức Thọ",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Mai Dịch",
+                            "rtspCam": "assd",
+                            "typeCam": "camDome",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "HTM-LĐT",
+                            "locationCam": {
+                                "lat": 21.037863630292605,
+                                "lng": 105.77232241630556
+                            },
+                            "id": "a48b6310-3703-4f08-8674-f1b4a49e4bc2",
+                            "angleCam": -128.24165418454467
+                        }
+                    ],
+                    "VMS": [
+                        {
+                            "nameVms": "vms3",
+                            "titleVms1": "hello1",
+                            "titleVms2": "hello2",
+                            "titleVms3": "hello3",
+                            "locationVms": {
+                                "lat": 21.037042633814256,
+                                "lng": 105.78478174637962
+                            },
+                            "routeVms": "Xuân Thủy",
+                            "modeVms": false,
+                            "scheduleVms": {
+                                "timeStart": "05:06:05 19/10/2024",
+                                "timeEnd": "06:04:06 23/10/2024"
+                            },
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Mai Dịch",
+                            "id": "d47dab0e-968a-4b5c-9b7c-c42689b13bbd"
+                        },
+                        {
+                            "nameVms": "vms2",
+                            "titleVms1": "content1 vms 2",
+                            "titleVms2": "content2 vms 2",
+                            "titleVms3": "content3 vms 2",
+                            "locationVms": {
+                                "lat": 21.036862200396417,
+                                "lng": 105.78821443507675
+                            },
+                            "routeVms": "Xuân Thủy",
+                            "modeVms": false,
+                            "scheduleVms": {
+                                "timeStart": "05:06:05 19/10/2024",
+                                "timeEnd": "06:04:06 23/10/2024"
+                            },
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Mai Dịch",
+                            "id": "e01b2946-c1c1-45c5-bc51-bdd3ab0debde"
+                        },
+                        {
+                            "nameVms": "vms1",
+                            "titleVms1": "",
+                            "titleVms2": "",
+                            "titleVms3": "",
+                            "locationVms": {
+                                "lat": 21.036541714993465,
+                                "lng": 105.79065985858531
+                            },
+                            "routeVms": "Xuân Thủy",
+                            "modeVms": true,
+                            "scheduleVms": null,
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Mai Dịch",
+                            "id": "e65580f3-3a29-4e93-a648-deba90529411"
+                        },
+                        {
+                            "nameVms": "vms4",
+                            "titleVms1": "vms4",
+                            "titleVms2": "vms4]]",
+                            "titleVms3": "vm4ewd",
+                            "locationVms": {
+                                "lat": 21.03673207921789,
+                                "lng": 105.77951073646547
+                            },
+                            "routeVms": "Hồ Tùng Mậu",
+                            "modeVms": false,
+                            "scheduleVms": {
+                                "timeStart": "05:06:05 19/10/2024",
+                                "timeEnd": "06:04:06 23/10/2024"
+                            },
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Mai Dịch",
+                            "id": "51e4b828-67a5-4c85-9f6d-5906c5a75139"
+                        },
+                        {
+                            "nameVms": "vms5",
+                            "locationVms": {
+                                "lat": 21.036646867757106,
+                                "lng": 105.7806270072183
+                            },
+                            "routeVms": "Cầu Giấy",
+                            "modeVms": true,
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Mai Dịch",
+                            "id": "8631fe2a-606d-4a0c-86c9-2b0c5938e834"
+                        }
+                    ]
+                },
+                "Phường Dịch Vọng": {
+                    "Cameras": [],
+                    "VMS": [
+                        {
+                            "nameVms": "test",
+                            "locationVms": {
+                                "lat": 21.035119854433052,
+                                "lng": 105.79633441446455
+                            },
+                            "routeVms": "Cầu Giấy",
+                            "modeVms": true,
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Dịch Vọng",
+                            "id": "c2022397-8966-4d6b-bd81-2e11cf8f5754"
+                        }
+                    ]
+                },
+                "Phường Quan Hoa": {
+                    "Cameras": [
+                        {
+                            "nameCam": "Khánh Toàn",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Quan Hoa",
+                            "rtspCam": "dwdeew",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "NKT",
+                            "locationCam": {
+                                "lat": 21.037610784448614,
+                                "lng": 105.80081283855543
+                            },
+                            "id": "ebb95223-9086-4f0f-83ae-e887596e4358",
+                            "angleCam": -102.49866340654003
+                        },
+                        {
+                            "nameCam": "Cầu vượt NKT",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Quan Hoa",
+                            "rtspCam": "dwdeew",
+                            "typeCam": "camDome",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "NKT",
+                            "locationCam": {
+                                "lat": 21.037953753459995,
+                                "lng": 105.80087457511475
+                            },
+                            "id": "40aa8aae-6aa5-4cac-bc6b-cb9705741230",
+                            "angleCam": 27.53172706721422
+                        },
+                        {
+                            "nameCam": "Cầu Dịch Vọng",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Quan Hoa",
+                            "rtspCam": "dwdeew",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "NKT",
+                            "locationCam": {
+                                "lat": 21.034791899740462,
+                                "lng": 105.80437606649356
+                            },
+                            "id": "2ccb39c0-3243-498c-95d2-c5fb3540781e",
+                            "angleCam": -2.769462571288997
+                        },
+                        {
+                            "nameCam": "Bưởi",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Cầu Giấy",
+                            "ward": "Phường Quan Hoa",
+                            "rtspCam": "dwdeeđưewfwềwfew",
+                            "typeCam": "camDome",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "Bưởi",
+                            "locationCam": {
+                                "lat": 21.034669229479096,
+                                "lng": 105.80501765870594
+                            },
+                            "id": "a3887ef4-62d6-4620-9db0-d51464dbd35f",
+                            "angleCam": 163.05020820056154
+                        }
+                    ],
+                    "VMS": []
+                }
+            },
+            "Quận Hai Bà Trưng": {
+                "Phường Minh Khai": {
+                    "Cameras": [
+                        {
+                            "nameCam": "Minh Khai",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Minh Khai",
+                            "rtspCam": "ww",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Ghi hình",
+                                "Camera AI",
+                                "Hoạt động"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": 20.99886522721476,
+                                "lng": 105.86881757178432
+                            },
+                            "id": "07297a24-241e-4c7d-8160-82c5189c0b43",
+                            "angleCam": -49.922451356085254
+                        },
+                        {
+                            "nameCam": "478 Minh Khai",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Minh Khai",
+                            "rtspCam": "eee",
+                            "typeCam": "camDome",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": "20.997806035498698",
+                                "lng": "105.86711133535955"
+                            },
+                            "id": "8c3b0dae-3c05-4472-a671-0ae141c9f136",
+                            "angleCam": 0
+                        },
+                        {
+                            "nameCam": "468 Minh Khai",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Minh Khai",
+                            "rtspCam": "swqqsw",
+                            "typeCam": "camDome",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": 20.997719607649238,
+                                "lng": 105.86682581681609
+                            },
+                            "id": "5924d3f3-19f2-491c-831d-c8da389a4917",
+                            "angleCam": 0
+                        },
+                        {
+                            "nameCam": "468 Minh Khai",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Minh Khai",
+                            "rtspCam": "swqqsw",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": 20.997719607649238,
+                                "lng": 105.86682581681609
+                            },
+                            "id": "c876aab9-df2a-422c-b816-f2541bef8731",
+                            "angleCam": 0
+                        },
+                        {
+                            "nameCam": "468 Minh Khai",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Minh Khai",
+                            "rtspCam": "swqqsw",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": 20.997719607649238,
+                                "lng": 105.86682581681609
+                            },
+                            "id": "73d6f569-18c0-48fc-bb35-20b99e5030a3",
+                            "angleCam": 176.9164823554596
+                        },
+                        {
+                            "nameCam": "468 Minh Khai",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Minh Khai",
+                            "rtspCam": "swqqsw",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": 20.997664517525067,
+                                "lng": 105.86666363422721
+                            },
+                            "id": "09eaa6a0-9575-4669-8967-86f660542c22",
+                            "angleCam": 141.663064144864
+                        },
+                        {
+                            "nameCam": "468 Minh Khai",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Minh Khai",
+                            "rtspCam": "swqqsw",
+                            "typeCam": "camDome",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": 20.997564353610855,
+                                "lng": 105.86635775649683
+                            },
+                            "id": "f65c8ba1-b780-431e-9168-8ea7bd11ce68",
+                            "angleCam": 166.22320712265613
+                        },
+                        {
+                            "nameCam": "468 Minh Khai",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Minh Khai",
+                            "rtspCam": "swqqsw",
+                            "typeCam": "camDome",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "none",
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": 20.99744540887546,
+                                "lng": 105.86600635346451
+                            },
+                            "id": "e3c8e95b-8577-40a2-9615-bf813dfd9e4f",
+                            "angleCam": -151.25381749022316
+                        },
+                        {
+                            "nameCam": "500 Minh Khai",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Minh Khai",
+                            "rtspCam": "qqq",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "222",
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": 20.995409561132483,
+                                "lng": 105.86025328235873
+                            },
+                            "id": "ec265ca4-f085-4812-9edc-c864f44d7016",
+                            "angleCam": 0
+                        },
+                        {
+                            "nameCam": "500 Minh Khai",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Minh Khai",
+                            "rtspCam": "qqq",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "222",
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": 20.995409561132483,
+                                "lng": 105.86025328235873
+                            },
+                            "id": "91562b0e-5593-45cc-9714-9773394d5f98",
+                            "angleCam": 0
+                        },
+                        {
+                            "nameCam": "500 Minh Khai",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Minh Khai",
+                            "rtspCam": "qqq",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "222",
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": 20.995409561132483,
+                                "lng": 105.86025328235873
+                            },
+                            "id": "2a39a56b-1557-4403-b091-7236292b4bb7",
+                            "angleCam": 172.10275761518727
+                        }
+                    ],
+                    "VMS": []
+                },
+                "Phường Vĩnh Tuy": {
+                    "Cameras": [
+                        {
+                            "nameCam": "Cầu Vĩnh Tuy",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Quận Hai Bà Trưng",
+                            "ward": "Phường Vĩnh Tuy",
+                            "rtspCam": "ww",
+                            "typeCam": "camFixed",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "routeCam": "Minh Khai",
+                            "locationCam": {
+                                "lat": "20.998934862515284",
+                                "lng": "105.87000541197759"
+                            },
+                            "id": "5852d8fa-d3ad-4ead-b8da-17e8ea516a98",
+                            "angleCam": 171.55928054294048
+                        }
+                    ],
+                    "VMS": []
+                }
+            },
+            "Huyện Đông Anh": {
+                "Xã Kim Chung": {
+                    "Cameras": [
+                        {
+                            "nameCam": "Camtest1",
+                            "classCam": "Giao thông",
+                            "provinces": "Thành phố Hà Nội",
+                            "district": "Huyện Đông Anh",
+                            "ward": "Xã Kim Chung",
+                            "rtspCam": "dwdeew",
+                            "typeCam": "camDome",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "urlLanCam": "222",
+                            "routeCam": "Kim Chung",
+                            "locationCam": {
+                                "lat": 21.132943242234294,
+                                "lng": 105.83121299743654
+                            },
+                            "id": "0761e286-ebf2-40e1-8e4c-c606788b2485",
+                            "angleCam": 0
+                        }
+                    ],
+                    "VMS": []
+                }
+            }
+        },
+        "Tỉnh Hà Giang": {
+            "Thành phố Hà Giang": {
+                "Phường Ngọc Hà": {
+                    "Cameras": [
+                        {
+                            "nameCam": "cam4",
+                            "classCam": "Giao thông",
+                            "provinces": "Tỉnh Hà Giang",
+                            "district": "Thành phố Hà Giang",
+                            "ward": "Phường Ngọc Hà",
+                            "rtspCam": "dwdeew",
+                            "typeCam": "camDome",
+                            "featureCam": [
+                                "Hoạt động",
+                                "Ghi hình"
+                            ],
+                            "locationCam": {
+                                "lat": 21.036646867757106,
+                                "lng": 105.7806270072183
+                            },
+                            "linkViewVideo": "/videos/videoTest4.MP4",
+                            "id": "773a5d3b-1a48-4e78-b767-8831a8404dc3",
+                            "angleCam": 0
+                        }
+                    ],
+                    "VMS": []
+                }
+            }
+        }
+    }
+}
