@@ -2,7 +2,7 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
 // thunk để fetch khi thêm một vms mới
 export const addVms = createAsyncThunk("vms/addVms", async (vmsData) => {
-  const res = await fetch("http://localhost:3000/api/vms/add", {
+  const res = await fetch("/api/vms/add", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -17,7 +17,7 @@ export const addVms = createAsyncThunk("vms/addVms", async (vmsData) => {
 
 // thunk để fetch khi lấy dữ liệu list vms
 export const fetchListVms = createAsyncThunk("vms/fetchListVms", async () => {
-  const res = await fetch("http://localhost:3000/api/vms/listVms");
+  const res = await fetch("/api/vms/listVms");
   if (!res.ok) {
     throw new Error("Failed to list vms");
   }
@@ -28,7 +28,7 @@ export const fetchListVms = createAsyncThunk("vms/fetchListVms", async () => {
 export const fetchVmsDetail = createAsyncThunk(
   "vms/fetchVmsDetail",
   async (id) => {
-    const res = await fetch(`http://localhost:3000/api/vms/detailVms?id=${id}`);
+    const res = await fetch(`/api/vms/detailVms?id=${id}`);
     if (!res.ok) {
       throw new Error("Failed to fetch VMS detail");
     }
@@ -43,7 +43,7 @@ export const saveVmsData = createAsyncThunk(
     console.log(vmsId, data);
 
     try {
-      const res = await fetch("http://localhost:3000/api/vms/addEventVms", {
+      const res = await fetch("/api/vms/addEventVms", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
